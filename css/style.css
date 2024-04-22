@@ -1,0 +1,16 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: rgb(200, 205, 225);
+  margin: 0;
+  padding: 0;
+  color: #0080c0;
+}
+
+h1 {
+  color: #000040;
+}
+
+.contentImg {
+    width: 100px;
+    height: auto;
+}
